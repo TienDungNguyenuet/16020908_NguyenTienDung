@@ -21,7 +21,7 @@ public class Student {
         return this.group;
     }
     public void setGroup(String name){
-        this.group = group;
+        this.group = name;
     }
     public String getEmail(){
         return this.email;
